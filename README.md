@@ -5,8 +5,8 @@ This project generates word clouds from Arabic text data, providing a visual rep
 </p>
 
 ## Features
-Generates word clouds for Arabic text.
-Supports customization of appearance (colors, fonts, etc.).
-Easy integration with various data sources (e.g., text files, databases).
+* Generates word clouds for Arabic text.
+* Supports customization of appearance (colors, fonts, etc.).
+* Easy integration with various data sources (e.g., text files, databases).
 
 
